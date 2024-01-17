@@ -68,3 +68,4 @@ if __name__ == '__main__':
     p.map(process_feature_class, worker_args)
     p.close()
     p.join()
+    ##You may or may not want to run a "clean up" step either here, or in the process_feature_class() function
