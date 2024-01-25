@@ -1,4 +1,4 @@
-This simple repository shows how multiprocessing can be leveraged in ArcMap to reduce the processing times of geoprocessing tools.
+This simple repository shows how multiprocessing can be leveraged in ArcMap and ArcGIS Pro to reduce the processing times of geoprocessing tools.
 I hope to write more material on the topic in the future, but hope what I have assembled here can be of use.
 Interested users are encouraged to write to ram.news1@gmail.com. If you are an Arcadis user, you can reach me at robert.meyer@arcadis.com.
 
