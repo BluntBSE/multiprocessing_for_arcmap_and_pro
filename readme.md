@@ -3,7 +3,7 @@ I hope to write more material on the topic in the future, but hope what I have a
 Interested users are encouraged to write to ram.news1@gmail.com. If you are an Arcadis user, you can reach me at robert.meyer@arcadis.com.
 
 HOW TO USE THIS DEMO:
-1. Open ArcMap
+1. Open ArcMap or ArcGIS Pro
 2. Create a new toolbox
 3. Create a new script tool
 4. Set the script tool to point to "demo.py"
